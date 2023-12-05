@@ -9,7 +9,7 @@ namespace SlimeTamingFix.Patch {
             var angeredTimer = Traverse.Create(__instance).Field("angeredTimer").GetValue<float>();
 
             if (tamedTimer > 0.0f && angeredTimer <= 0.0f) {
-                Plugin.Instance.PluginLogger.LogInfo("Blob is tamed! Skipping...");
+                // Plugin.Instance.PluginLogger.LogInfo("Blob is tamed! Skipping...");
                 return false; // Skip original and other patches.
             }
 

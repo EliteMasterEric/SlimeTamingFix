@@ -11,7 +11,7 @@ In the game's code, there are references to "taming" Hygroderes by playing a Boo
 In-game, being exposed to a Boombox's music speeds up the Hygrodere, and is supposed to trigger code which prevents the Hygrodere from dealing damage. However, this code has a typo which causes it to only work when the Hygrodere has been hit by a player (using a Shovel or Stun Grenade); this increases an "anger" timer, but when the anger timer has elapsed, the taming code now works as expected.
 
 ## Demonstration
-[Demo](https://github.com/EliteMasterEric/SlimeTamingFix/raw/master/Art/SlimeBugDemo.mp4)
+[Bug Demonstration](https://raw.githubusercontent.com/EliteMasterEric/SlimeTamingFix/master/Art/SlimeBugDemo.mp4)
 
 ## Issues
 Report any issues on the Lethal Company Modding Discord.
@@ -19,3 +19,4 @@ Report any issues on the Lethal Company Modding Discord.
 ## Credits
 - EliteMasterEric: Programming
 - FoguDragon: Playtesting
+- [SoftySapphie](https://twitter.com/SoftySapphie): Icon
