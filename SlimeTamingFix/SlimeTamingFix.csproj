@@ -9,7 +9,7 @@
     <Version>1.0.0</Version>
 
     <Title>SlimeTamingFix</Title>
-    <Description>Rework the Performance Report with new info, including cause of death.</Description>
+    <Description>Fixes a bug that made Hygroderes unable to be tamed with Boomboxes.</Description>
 
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>

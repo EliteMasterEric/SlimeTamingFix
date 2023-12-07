@@ -1,6 +1,6 @@
 {
     "name": "SlimeTamingFix",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/EliteMasterEric/SlimeTamingFix",
     "description": "Fixes a bug that made Hygroderes unable to be tamed with Boomboxes.",
     "dependencies": [

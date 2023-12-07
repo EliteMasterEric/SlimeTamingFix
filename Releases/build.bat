@@ -10,4 +10,4 @@ REM Copy all files from ../SlimeTamingFix/build/bin/Debug to the current directo
 xcopy /s /y /q ..\SlimeTamingFix\build\bin\Debug\* .
 
 REM Create a zip file named SlimeTamingFix.zip containing all files (except build.bat) in the current directory
-"C:\Program Files\7-Zip\7z.exe" a SlimeTamingFix.zip * -x!build.bat
+"C:\Program Files\7-Zip\7z.exe" a SlimeTamingFix.zip * -x!build.bat -x!SlimeTamingFix.zip
