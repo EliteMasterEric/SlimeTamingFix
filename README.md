@@ -2,6 +2,8 @@
 
 A plugin which fixes a bug with Hygrodere behavior.
 
+EDIT: This mod is obsolete as of v81.
+
 ## Explanation
 
 In the game's code, there are references to "taming" Hygroderes by playing a Boombox near it. This is reinforced by an explicit reference to this in its Terminal entry:
